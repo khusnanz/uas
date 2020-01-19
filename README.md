@@ -1,4 +1,4 @@
-#uas
+
 :octocat: PENJELASAN UAS :octocat:
 
 1. Lakukan fork pada repositori https://github.com/abuazzam/uaspy20 (Harus Login akun masing-masing)
