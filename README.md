@@ -1,6 +1,7 @@
 #uas
+:octocat: PENJELASAN UAS :octocat:
 
-1. Lakukan fork pada repositori https://github.com/abuazzam/uaspy20 (Harus Loginakun masing-masing)
+1. Lakukan fork pada repositori https://github.com/abuazzam/uaspy20 (Harus Login akun masing-masing)
 2. Lakukan clone repositori uas ke PyCharm atau ke Lokal, copy URL tersebut
 3. Konfigurasi VCS Menggunakan Git 
 4. Kemudian paste URL repositori tadi 
