@@ -22,7 +22,6 @@
 
 ![4 keluar](https://user-images.githubusercontent.com/57025775/72674956-0cb40180-3ab0-11ea-81a7-683581d37455.jpg)
 
-CODE PROGRAM :
 
 
 
