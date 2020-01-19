@@ -16,6 +16,11 @@
 
 7. Cari buku untuk memanggil search_book() yang terdiri dari beberapa Class dan Method dengan atribute books 
 
+![3 cari](https://user-images.githubusercontent.com/57025775/72674955-0c1b6b00-3ab0-11ea-92fa-5de8a23539d9.jpg)
+
 8. Keluar Program untuk break program
+
+![4 keluar](https://user-images.githubusercontent.com/57025775/72674956-0cb40180-3ab0-11ea-81a7-683581d37455.jpg)
+
 
 sekian penjelasan uas dari saya, semoga bermanfaat :octocat:
